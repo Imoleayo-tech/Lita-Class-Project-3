@@ -76,6 +76,20 @@
 - Github: for portfolio building
 - Power BI: for data summarization and data visualization
 ### Class Exercises on Excel
+[INCUBATOR Copy of Pivot Tables File(1).xlsx](https://github.com/user-attachments/files/17695392/INCUBATOR.Copy.of.Pivot.Tables.File.1.xlsx)
+
+### Class Exercise on SQl
+![Screenshot (84)](https://github.com/user-attachments/assets/be594054-fbc1-432a-9a28-95c3d4a9bdd4)
+![Screenshot (83)](https://github.com/user-attachments/assets/f73e5e16-2d46-4835-a67d-a707639083af)
+![Screenshot (82)](https://github.com/user-attachments/assets/638a9cf7-766c-4360-bb58-e07ea18b831e)
+![Screenshot (81)](https://github.com/user-attachments/assets/bbf30035-6c1d-42e2-96a5-9971a48aa489)
+![Screenshot (80)](https://github.com/user-attachments/assets/0fcbf77e-f751-424d-a803-f48773cacb38)
+![Screenshot (79)](https://github.com/user-attachments/assets/707d56e7-e318-488a-81b4-cb870f2e9c7c)
+![Screenshot (78)](https://github.com/user-attachments/assets/304c97c5-0380-4d52-8c68-35b4f08c04e1)
+![Screenshot (77)](https://github.com/user-attachments/assets/970962e4-1bf1-4c14-830c-8da2d092a243)
+
+### Class Exercise on Power BI
+
 
 ### Capstone Project 2: Customer Segmentation for a Subscription Service
 
