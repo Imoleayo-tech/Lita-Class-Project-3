@@ -1,5 +1,4 @@
 # Lita-Class-Project-3
-# Lita-Class-Project-2
 
 ## Profile
 
@@ -77,3 +76,24 @@
 - Github: for portfolio building
 - Power BI: for data summarization and data visualization
 ### Class Exercises on Excel
+
+### Capstone Project 2: Customer Segmentation for a Subscription Service
+
+### Project Overview
+This project involves analyzing customer data for a subscription service to identify segments and trends. The aim or goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. The Power BI dashboard was used to presents the analysis using different visualization tools.
+### Tools Used
+- Excel: This was used to analyze customer data using pivot tables to find subscription patterns, to calculate the average subscription duration and identify the most popular subscription types and create any other interesting reports.
+- SQL: The dataset was loaded into the SQL Server environment to write and validate queries. Queries were written to extract key insights based on the following questions:
+1. To retrieve the total number of customers from each region.
+2. To find the most popular subscription type by the number of customers.
+3. To find customers who canceled their subscription within 6 months.
+4. To calculate the average subscription duration for all customers.
+5. To find customers with subscriptions longer than 12 months.
+6. To calculate total revenue by subscription type.
+7. To find the top 3 regions by subscription cancellations.
+8. To find the total number of active and canceled subscriptions.
+- Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Slicers were included for interactive analysis.
+
+### Data Analysis
+
+### Data Visualization
