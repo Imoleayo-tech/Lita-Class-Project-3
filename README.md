@@ -89,9 +89,19 @@
 ![Screenshot (77)](https://github.com/user-attachments/assets/970962e4-1bf1-4c14-830c-8da2d092a243)
 
 ### Class Exercise on Power BI
+![Screenshot (90)](https://github.com/user-attachments/assets/2a18062e-5ac5-4d68-a586-1f4f115e4285)
+![Screenshot (89)](https://github.com/user-attachments/assets/feb377a8-019c-49bf-a4b9-b221088f8f42)
+![Screenshot (88)](https://github.com/user-attachments/assets/73cc7720-b43f-40ae-a678-77d2717e1aa2)
 
 
 ### Capstone Project 2: Customer Segmentation for a Subscription Service
+![Screenshot (112)](https://github.com/user-attachments/assets/7969f283-8a9d-4021-ba1b-8990a13ee15e)
+![Screenshot (111)](https://github.com/user-attachments/assets/be4ea0d8-a57f-4817-854a-17bc09833095)
+![Screenshot (109)](https://github.com/user-attachments/assets/f289b2bc-f508-419f-9980-52f3f4af5de4)
+![Screenshot (104)](https://github.com/user-attachments/assets/ecf8f859-160b-44ad-9448-09c1618b466a)
+![Screenshot (103)](https://github.com/user-attachments/assets/ab86a741-9009-49b0-b58b-a7b3f6c8da13)
+![Screenshot (102)](https://github.com/user-attachments/assets/c15d7397-bcb8-4874-8203-962cf86f97f6)
+
 
 ### Project Overview
 This project involves analyzing customer data for a subscription service to identify segments and trends. The aim or goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. The Power BI dashboard was used to presents the analysis using different visualization tools.
@@ -109,5 +119,9 @@ This project involves analyzing customer data for a subscription service to iden
 - Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Slicers were included for interactive analysis.
 
 ### Data Analysis
+![Screenshot (107)](https://github.com/user-attachments/assets/9106e23a-77c1-4beb-a10a-3de5ed2d9571)
+![Screenshot (106)](https://github.com/user-attachments/assets/71dc043e-38f5-4370-aafb-72ff747cbef5)
+![Screenshot (105)](https://github.com/user-attachments/assets/fcce83ff-389b-4af5-9693-73ac2388e2d3)
+
 
 ### Data Visualization
